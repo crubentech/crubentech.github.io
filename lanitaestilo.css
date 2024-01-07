@@ -175,7 +175,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("Imagenes/pulido_pies.jpg");
+    ,url("Imagenes/Pie-Diabetico.jpg");
 }
 
 .carta:nth-child(3){
@@ -422,7 +422,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("Imagenes/pulido_pies.jpg");
+        ,url("Imagenes/Pie-Diabetico.jpg");
     }
 
     .carta:nth-child(3){
