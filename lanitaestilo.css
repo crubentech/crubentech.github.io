@@ -302,7 +302,7 @@ footer p{
 
 footer .container{
     height: 100px;
-    display: inline-flex;
+    display: inline-block;
     justify-content: center;
     align-items: flex-end;
 }
